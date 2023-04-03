@@ -5,8 +5,7 @@
     "https://orange-field-06c9e2f03.azurestaticapps.net/uk-UA/docs/localization/",
     "https://orange-field-06c9e2f03.azurestaticapps.net/uk-UA/docs/procurement/",
     "https://orange-field-06c9e2f03.azurestaticapps.net/uk-UA/docs/ifrs16/",
-    "https://orange-field-06c9e2f03.azurestaticapps.net/uk-UA/docs/gdpr/",
-    "https://orange-field-06c9e2f03.azurestaticapps.net/uk-UA/docs/hrp/"
+    "https://orange-field-06c9e2f03.azurestaticapps.net/uk-UA/docs/gdpr/"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": ["/tests"],
