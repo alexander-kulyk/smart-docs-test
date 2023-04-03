@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksmart_docs=self.webpackChunksmart_docs||[]).push([[9473],{8808:s=>{s.exports=JSON.parse('{"permalink":"/smart-docs-test/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

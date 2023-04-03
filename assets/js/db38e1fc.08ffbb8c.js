@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksmart_docs=self.webpackChunksmart_docs||[]).push([[9410],{9824:s=>{s.exports=JSON.parse('{"permalink":"/smart-docs-test/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
