@@ -1,0 +1,1 @@
+docker run -it --env-file=.env -e "CONFIG=$(cat /Users/mac/smart-docs/docsearch-config.json | jq -r tostring)" typesense/docsearch-scraper:0.4.1
